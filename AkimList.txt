@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Akim
-=======
-Ilya
->>>>>>> origin/feature/listZaicol
